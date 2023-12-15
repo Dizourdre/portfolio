@@ -215,6 +215,18 @@ h3
     }
 }
 
+
+
+a { 
+    color: #ffffff; 
+    transition: 0.3s;
+    
+} 
+a:hover { 
+    color: #ce1763; 
+
+} 
+
 .qui-suis-je {
     display: flex;
     flex-direction: column; /* Empile les éléments verticalement */
@@ -265,6 +277,8 @@ h3
     margin-left: 10px;
     margin-right: 35px;
 }
+
+
 
 /**//**//**//**//**//**//**//**//**/
   /**//* FIN QUI SUIS-JE ? *//**/
