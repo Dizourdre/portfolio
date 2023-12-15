@@ -217,12 +217,12 @@ h3
 
 
 
-a { 
+.link { 
     color: #ffffff; 
     transition: 0.3s;
     
 } 
-a:hover { 
+.link :hover { 
     color: #c9125e; 
 
 } 
