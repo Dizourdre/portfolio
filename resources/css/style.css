@@ -249,7 +249,7 @@ h3
 .text-block {
     width: 100%; /* Texte occupe toute la largeur de .content */
     margin: 25px;
-    text-align: justify
+    
 }
 
 .t-info {
