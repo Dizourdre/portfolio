@@ -223,7 +223,13 @@ h3
     
 } 
 .link :hover { 
-    color: #c9125e; 
+    color: #c9125e;
+    transition: 0.3s; 
+
+} 
+.link :not(:hover) { 
+    color: #ffffff;
+    transition: 0.3s; 
 
 } 
 
