@@ -20,7 +20,7 @@
 ## Url du site en ligne 
 
 
-[Url du site en ligne](https://dizourdre.fr)
+[Dizourdre.fr](https://dizourdre.fr)
 
 Site héberger avec github et Ionos
 
