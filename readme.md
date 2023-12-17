@@ -1,6 +1,6 @@
 # Site Portfolio Konan-Hoël Lesault
 
-
+Ce projet est un site web portfolio personnel développé en HTML et CSS. Il a été créé pour présenter les projets que j'ai réalisés au cours de ces dernières années et les compétences que j'ai acquises. 
 
 
 ## Structure du projet
@@ -22,7 +22,7 @@
 
 [Dizourdre.fr](https://dizourdre.fr)
 
-Site héberger avec github et Ionos
+Site hébergé avec Github et Ionos
 
 ## Preview site web 
 
